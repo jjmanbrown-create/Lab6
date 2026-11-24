@@ -1,0 +1,8 @@
+Java Programming,John Smith,Programming,5
+Database Systems,Mary Johnson,Database,3
+Artificial Intelligence,Alan Brown,AI,2
+Python Fundamentals,Sarah Lee,Programming,4
+Machine Learning,David Wilson,AI,0
+Data Structures,Emily Davis,Programming,6
+SQL Essentials,Robert White,Database,1
+Computer Networks,Lisa Green,Networking,3
